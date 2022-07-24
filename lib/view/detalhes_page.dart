@@ -47,7 +47,7 @@ class Detalhes extends StatelessWidget {
                 thickness: 0.5,
               ),
               const Text(
-                'Tipo:',
+                'Tipo:    ',
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               const SizedBox(
@@ -58,7 +58,7 @@ class Detalhes extends StatelessWidget {
                 height: 30,
                 thickness: 0.5,
               ),
-              const Text('Fraquezas:',
+              const Text('Fraquezas:   ',
                   style: TextStyle(fontWeight: FontWeight.bold)),
               const SizedBox(
                 height: 2,
